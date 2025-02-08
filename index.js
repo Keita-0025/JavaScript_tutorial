@@ -69,7 +69,6 @@ document.addEventListener('DOMContentLoaded', function () {
     //toggle alert button
     // document.addEventListener('DOMContentLoaded', function () {
     const title = document.querySelector('.alert');
-    console.log(title);
     const toggleButton = document.getElementById('titleDeret');
 
     toggleButton.addEventListener('click', function () {
